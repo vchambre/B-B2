@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Bienvenue sur B&B Coding, votre guide pour comprendre le HTML, CSS et JavaScript. Découvrez les bases de la programmation web.">
+    <meta name="keywords" content="HTML, CSS, JavaScript, programmation web">
+    <meta name="author" content="Votre nom ou nom de l'entreprise">
+    <title>B&B Coding - Comprendre le HTML, CSS et JavaScript</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>B&B Coding</h1>
+        <nav>
+            <ul>
+                <li><a href="#html">HTML</a></li>
+                <li><a href="#css">CSS</a></li>
+                <li><a href="#javascript">JavaScript</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="html">
+            <h2>HTML</h2>
+            <p>HTML (HyperText Markup Language) est le langage standard utilisé pour créer et structurer le contenu sur le web. Il utilise des balises pour décrire le sens du contenu.</p>
+            <!-- Vous pouvez ajouter plus d'informations sur HTML ici -->
+        </section>
+
+        <section id="css">
+            <h2>CSS</h2>
+            <p>CSS (Cascading Style Sheets) est un langage utilisé pour styliser l'apparence des éléments HTML sur une page web.</p>
+            <!-- Ajoutez plus d'informations sur CSS ici -->
+        </section>
+
+        <section id="javascript">
+            <h2>JavaScript</h2>
+            <p>JavaScript est un langage de programmation utilisé pour rendre les pages web interactives et dynamiques.</p>
+            <!-- Ajoutez plus d'informations sur JavaScript ici -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 B&B Coding. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
